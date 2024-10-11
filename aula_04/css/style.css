@@ -1,0 +1,40 @@
+h2{
+   
+    padding-top: 20px;  /*Espaçamento interno para todos os lados*/
+padding-bottom: 35px;   /*Espaçamento para baixo*/
+    padding-left: 25;   /*Espacamento mas paraesquerda*/
+    text-align: center; /*Alinha o texto*/
+}
+.azul{
+    background-color:  #2E6EA6 ; 
+    border: 5px solid#000000;
+}
+.marrom{
+    background-color: chocolate;
+}
+        .vermelho{
+            background-color:brown
+        }
+
+    a{
+
+    color: #FFFFFF;
+    background-color: #2E6EA6;
+   text-decoration: none; /*retirada o sublinhado do link*/
+   padding: 10px;
+   margin-top: 50px;
+    }
+    A:hover{
+        background-color: blueviolet;
+
+    }
+   
+button{
+    background-color: red;
+    border-radius: 5px;
+    color: #FFFFFF;
+    padding: 10px;
+   
+}
+
+
